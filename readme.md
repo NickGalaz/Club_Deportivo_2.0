@@ -1,4 +1,4 @@
-# Desafío Opcional: Club Deportivo 2
+# Desafío Opcional: Club Deportivo 2.0
 
 ### Módulo 6
 ### Desarrollo Backend en Node
